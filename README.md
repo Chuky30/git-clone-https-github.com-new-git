@@ -1,1 +1,1 @@
-# git-clone-https-github.com-new-git
+# git clone https://github.com/Chuky/git
